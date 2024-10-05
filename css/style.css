@@ -209,7 +209,7 @@ header .navbar .menu ul li:hover {
 }
 
 .hero .swiper-wrapper .container div {
-  background-image: url("images/Subtraction2.png");
+  background-image: url("../images/Subtraction2.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 1000px;
@@ -304,7 +304,7 @@ header .navbar .menu ul li:hover {
 .welcome {
   z-index: 1;
   position: relative;
-  background-image: url("images/5.jpg");
+  background-image: url("../images/5.jpg");
   background-position: center;
   background-size: cover;
   height: 570px;
@@ -538,7 +538,7 @@ header .navbar .menu ul li:hover {
 }
 
 .goods {
-  background-image: url("images/bbb.jpg");
+  background-image: url("../images/bbb.jpg");
   background-position: center;
   background-size: cover;
   padding: 0px 0px 260px 0px;
