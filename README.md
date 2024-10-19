@@ -1,3 +1,2 @@
-[# alfurdustrading
-this is sample of a website I developed
+[Click Here ...
 ](https://essam-1978.github.io/allamygroup/)
